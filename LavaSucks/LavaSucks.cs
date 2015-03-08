@@ -7,7 +7,7 @@ using TShockAPI;
 
 namespace LavaSucks
 {
-	[ApiVersion(1, 16)]
+	[ApiVersion(1, 17)]
 	public class LavaSucks : TerrariaPlugin
 	{
 		public static bool doesLavaSuck = true;
